@@ -1,1 +1,1 @@
-# A repository to test pre-commit files 
+# A repository to test pre-commit files
