@@ -21,8 +21,3 @@ repos:
     rev: v2.6.2 # Use the sha / tag you want to point at
     hooks:
       - id: prettier
-  - repo: https://github.com/elmokulc/run-pycode.git
-    rev: "v0.0"
-    hooks:
-      - id: run-pycode
-        args: ["--files-to-run=[update_README.py]"]
